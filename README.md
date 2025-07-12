@@ -15,6 +15,10 @@ All setting for VSCode I put on setting.json file. Copy this file and paste to U
 7. HTML to CSS autocompletion
 8. CSS Peek
 9. Color Highlight
-10. Quokka.js
-11. Code Snap
-12. Codeium, Tabnine, Github Copilot (AI)
+10. CodeSnap
+11. Auto Rename Tag
+12. Code Runner
+13. Tailwind CSS Intellisense
+14. Markdown Preview Enhanced
+15. Quokka.js (Optional)
+16. Codeium, Tabnine, Github Copilot (AI) (Optional)
