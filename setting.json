@@ -1,13 +1,19 @@
 {
   "workbench.sideBar.location": "right",
   "workbench.startupEditor": "none",
-  "editor.defaultFormatter": "publisherofficial.pretier",
-  "editor.formatOnSave": true,
-  "editor.fontSize": 15,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.fontSize": 14,
   "editor.renderWhitespace": "all",
-  "editor.cursorBlinking": "expand",
   "editor.lineHeight": 1.5,
   "workbench.colorTheme": "Mayukai Reversal",
   "workbench.iconTheme": "vscode-icons",
-  "editor.linkedEditing": true
+  "editor.linkedEditing": true,
+  "liveServer.settings.CustomBrowser": "chrome",
+  "json.schemas": [],
+  "workbench.editor.empty.hint": "hidden",
+  "terminal.integrated.env.linux": {},
+  "editor.cursorBlinking": "expand",
+  "editor.overtypeCursorStyle": "line",
+  "editor.formatOnSave": true
 }
+
